@@ -1,0 +1,13 @@
+//Login related
+GetMembers - /api/getMembers - Get all the created users in the database.
+createMember - /api/createMember - To create a member
+
+//Bills related
+/api/getAllBills
+api/getBills/live
+/createBill
+/getBill/{id}
+/startVoting
+/closeVoting
+/restartVoting
+/vote
