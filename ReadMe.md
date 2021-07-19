@@ -1,13 +1,13 @@
-##INSTRUCTIONS:
+#INSTRUCTIONS:
 1. Unzip the votingsystem.1.0.0.zip file.
 2. Open Cmd, navigate to the extracted location.
 3. Run "java -jar votingsystem.1.0.0.jar"
 
-##PreRequisites:
+#PreRequisites:
 Java1.8 must be installed
 Application runs on port 8888
 
-##Tools and Techologies:
+#Tools and Techologies:
 Java8, SpringBoot, PostMan, H2 Database
 
 ##Documentation:
